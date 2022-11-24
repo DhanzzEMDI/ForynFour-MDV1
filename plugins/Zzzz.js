@@ -6,14 +6,14 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 
 💌 CARI AJA DIBAWAH INI
 
-📮 YOU TUBE :
-youtube.com/c/hokenbeusz
+📮 WHATSAPP :
+https://wa.me/6285786510891
 
 📮 GITHUB :
-github.com/krizynofc/forynfour-MDV1
+github.com/DhanzzEMDI/forynfour-MDV1
 
 📮 JANGAN LUPA MAMPIR :
-https://lynk.id/kri.com`
+https://chat.whatsapp.com/GGJin22IEN39S8wxrqOFC6
 
 await conn.sendBut(m.chat, esce, '📮 DONT FORGET TO FOLLOW MY ACCOUNT', 'Thanks', '.menu', m) 
 }
